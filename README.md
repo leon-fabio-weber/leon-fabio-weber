@@ -26,4 +26,8 @@ BERT-based author classification for German-language news articles. Originally d
 
 ---
 
+<img src="assets/repository-stack.svg" alt="Automatically generated repository language breakdown and detected technologies" width="100%" />
+
+<sub><i>Languages are measured by code size across public, non-fork repositories. Technologies are inferred from selected dependency and configuration files.</i></sub>
+
 <sub>More about me at <a href="https://leon-fabio-weber.com/">leon-fabio-weber.com</a>.</sub>
